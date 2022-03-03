@@ -5,3 +5,12 @@ I learnt it from youtube.
 <hr>
 <br>
 <b><span style="color: #FF6363; font-size: 1rem;">PART 1:</b>
+
+  
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```  
