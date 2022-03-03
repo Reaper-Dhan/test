@@ -15,10 +15,10 @@ I learnt it from youtube.
 @@ text in purple (and bold)@@
 ```  
 
-```css
+<style>
   p {
       color:red;
   }
-  ```
+</style>
   
   <p>Hi Hello</p>
