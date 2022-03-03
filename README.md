@@ -14,3 +14,11 @@ I learnt it from youtube.
 # text in gray
 @@ text in purple (and bold)@@
 ```  
+
+```css
+  p {
+      color:red;
+  }
+  ```
+  
+  <p>Hi Hello</p>
